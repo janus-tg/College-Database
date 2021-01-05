@@ -7,6 +7,8 @@ A database program created in MySQL that can function as a college database. It 
 1. Create a database called ```first_db``` on MySQL
 2. Run the script ```main.sql```
 
+Note: This program has only been tested on MySQL. Performance on other database engines is not guaranteed. 
+
 ## Pictures of table
 #### Student info, instructor info and majors' tables
 <img src="db_img/all student info.jpg" width="360"> <img src="db_img/all instructors.jpg" width = "270"> <img src="db_img/all majors.jpg" width = "270"> 
