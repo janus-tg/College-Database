@@ -4,6 +4,6 @@ A database program created in MySQL that can function as a college database. It 
 
 ## Pictures of table
 
-<img src="db_img/all student info.jpg">  <img src="db_img/all instructors.jpg"> <img src="db_img/all majors.jpg"> 
+<img src="db_img/all student info.jpg" width="300">  <img src="db_img/all instructors.jpg"> <img src="db_img/all majors.jpg"> 
 ## License
 [MIT](https://github.com/janus-tg/college_database/blob/master/LICENSE)
