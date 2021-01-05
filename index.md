@@ -27,6 +27,16 @@ Click the links to see the images
 4. [Digital Systems](https://github.com/janus-tg/college_database/blob/main/db_img/all%20digitalsystem.jpg)
 5. [Electric Fundamentals](https://github.com/janus-tg/college_database/blob/main/db_img/all%20elecfundamentals.jpg)
 
+## Results of queries performed
+Click the links to see the images
+1. [Total students](https://github.com/janus-tg/College-Database/blob/main/db_img/query_totalStudents.jpg)
+2. [Terms a course is offered in](https://github.com/janus-tg/College-Database/blob/main/db_img/query_distinctTerms.jpg)
+3. [Name of all students and arranging them in descending order of age and last name.](https://github.com/janus-tg/College-Database/blob/main/db_img/query_age%20and%20last%20name.jpg)
+4. [Average marks scored in a course by all students who have taken the course](https://github.com/janus-tg/College-Database/blob/main/db_img/query_avgMarkinCourse.jpg)
+5. [Avergae marks scored by females in Calc 2](https://github.com/janus-tg/College-Database/blob/main/db_img/query_avgFemaleMarksCalc2.jpg)
+6. [Name and details of student who scored the max marks in Calc 3](https://github.com/janus-tg/College-Database/blob/main/db_img/query_nameOfMaxMarkScoredInCalc3.jpg)
+7. [Grades assigned based on marks to students in electric fundamentals](https://github.com/janus-tg/College-Database/blob/main/db_img/query_gradeInElec.jpg)
+8. [Seeing whether student had honors, passed or failed in digital systems](https://github.com/janus-tg/College-Database/blob/main/db_img/query_statusOfStdInDigital.jpg)
 
 ## License
 [MIT](https://github.com/janus-tg/college_database/blob/master/LICENSE)
