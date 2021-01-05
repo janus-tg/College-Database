@@ -11,6 +11,7 @@ Note: This program has only been tested on MySQL. Performance on other database 
 
 ## Pictures of table
 #### Student info, instructor info and majors' tables
+<img src="db_img/all student info.jpg" width="300"> <img src="db_img/all instructors.jpg" width = "200"> <img src="db_img/all majors.jpg" width = "200"> 
 <img src="https://github.com/janus-tg/College-Database/blob/main/db_img/all%20student%20info.jpg" width="360"> <img src="https://github.com/janus-tg/College-Database/blob/main/db_img/all%20instructors.jpg" width = "270"> <img src="https://github.com/janus-tg/College-Database/blob/main/db_img/all%20majors.jpg" width = "270"> 
 
 #### Table for different subjects
