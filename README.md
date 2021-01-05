@@ -4,7 +4,6 @@ A database program created in MySQL that can function as a college database. It 
 
 ## Pictures of table
 <p float="left">  
-<figure>
 <img src="db_img/all student info.jpg" width="200">
   <figcaption> The main student info table </figcaption>
   
@@ -13,7 +12,6 @@ A database program created in MySQL that can function as a college database. It 
 
 <img src="db_img/all instructors.jpg" width="200">
   <figcaption> The main student info table </figcaption>
-  </figure>
   </p>
  
 ## License
