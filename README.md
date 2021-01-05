@@ -6,5 +6,14 @@ A database program created in MySQL that can function as a college database. It 
 ### Student info, instructor info and majors' tables
 <img src="db_img/all student info.jpg" width="360"> <img src="db_img/all instructors.jpg" width = "270"> <img src="db_img/all majors.jpg" width = "270"> 
 
+#### Table for different subjects
+CLick the links to see their images
+1. [Calculus 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20calc2%20.jpg)
+2. [ESP 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20esp2.jpg)
+3. [Calculus 3](https://github.com/janus-tg/college_database/blob/main/db_img/all%20calc3.jpg)
+4. [Digital Systems] (https://github.com/janus-tg/college_database/blob/main/db_img/all%20digitalsystem.jpg)
+5. [Electric Fundamentals] (https://github.com/janus-tg/college_database/blob/main/db_img/all%20elecfundamentals.jpg)
+
+
 ## License
 [MIT](https://github.com/janus-tg/college_database/blob/master/LICENSE)
