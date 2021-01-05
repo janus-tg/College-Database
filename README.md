@@ -10,7 +10,7 @@ A database program created in MySQL that can function as a college database. It 
 Note: This program has only been tested on MySQL. Performance on other database engines is not guaranteed. 
 
 ## Pictures of table
-#### Student info, instructor info and majors' tables
+### Student info, instructor info and majors' tables
 <img src="db_img/all student info.jpg" width="300">
 Student information table
 <img src="db_img/all instructors.jpg" width = "250"> 
@@ -18,7 +18,7 @@ Instructor information table
 <img src="db_img/all majors.jpg" width = "250"> 
 Major information table
 
-#### Table for different subjects
+### Table for different subjects
 Click the links to see the images
 1. [Calculus 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20calc2%20.jpg)
 2. [ESP 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20esp2.jpg)
