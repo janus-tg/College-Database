@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# College Database
 
-You can use the [editor on GitHub](https://github.com/janus-tg/College-Database/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A database program created in MySQL that can function as a college database. It stores all the students' info in the student_info table which contains the firstname, lastname, student ID, major and their sex. The instructors' details with their IDs and names are in another related table. Another table contains the major names and their corresponding codes. Lastly, different tables have been created for each individual course being offered. These course tables contain the student ID of each student who has taken the course, name of professor who taught the course to the student, year and semester the course was taken in and the mark the student received in the course.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Running the program
 
-### Markdown
+1. Create a database called ```first_db``` on MySQL
+2. Run the script ```main.sql```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Note: This program has only been tested on MySQL. Performance on other database engines is not guaranteed. 
 
-```markdown
-Syntax highlighted code block
+## Pictures of table
+#### Student info, instructor info and majors' tables
+<img src="db_img/all student info.jpg" width="360"> <img src="db_img/all instructors.jpg" width = "270"> <img src="db_img/all majors.jpg" width = "270"> 
 
-# Header 1
-## Header 2
-### Header 3
+#### Table for different subjects
+Click the links to see the images
+1. [Calculus 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20calc2%20.jpg)
+2. [ESP 2](https://github.com/janus-tg/college_database/blob/main/db_img/all%20esp2.jpg)
+3. [Calculus 3](https://github.com/janus-tg/college_database/blob/main/db_img/all%20calc3.jpg)
+4. [Digital Systems](https://github.com/janus-tg/college_database/blob/main/db_img/all%20digitalsystem.jpg)
+5. [Electric Fundamentals](https://github.com/janus-tg/college_database/blob/main/db_img/all%20elecfundamentals.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janus-tg/College-Database/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## License
+[MIT](https://github.com/janus-tg/college_database/blob/master/LICENSE)
