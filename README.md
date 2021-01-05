@@ -6,14 +6,10 @@ A database program created in MySQL that can function as a college database. It 
 <figure>
 <img src="db_img/all student info.jpg" width="200">
   <figcaption> The main student info table </figcaption>
-  </figure>
   
-  <figure>
 <img src="db_img/all majors.jpg" width="200">
   <figcaption> The main student info table </figcaption>
-  </figure>
-  
-  <figure>
+
 <img src="db_img/all instructors.jpg" width="200">
   <figcaption> The main student info table </figcaption>
   </figure>
