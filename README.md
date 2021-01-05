@@ -11,7 +11,7 @@ Note: This program has only been tested on MySQL. Performance on other database 
 
 ## Pictures of table
 #### Student info, instructor info and majors' tables
-<img src="db_img/all student info.jpg" width="360"> <img src="db_img/all instructors.jpg" width = "270"> <img src="db_img/all majors.jpg" width = "270"> 
+<img src="db_img/all student info.jpg" width="300"> <img src="db_img/all instructors.jpg" width = "200"> <img src="db_img/all majors.jpg" width = "200"> 
 
 #### Table for different subjects
 Click the links to see the images
